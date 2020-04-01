@@ -41,7 +41,6 @@ font-size: 18px;
 #leftintro {
 background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(trpic.jpg);
 background-size: cover;
-height: 800px;
 background-position: center;
 color: #efefef !important;
 background-attachment: fixed;

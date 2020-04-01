@@ -2,6 +2,7 @@
 margin:0;
 padding:0;
 }
+
 /*----------navigation--------*/
 #nav-bar {
 position: sticky;
@@ -20,7 +21,7 @@ float:right;
 text-align:left;
 }
 #nav-bar ul li a:hover {
-  color: #007bff!important;
+  color: #68819c!important;
 }
 .navbar {
 background: #fff;
@@ -30,7 +31,7 @@ border: none!important;
 }
 .nav-link
 {
-color:#555!important;
+color:#20272e!important;
 font-weight: 600;
-font-size: 16px;
+font-size: 18px;
 }

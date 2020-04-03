@@ -51,7 +51,7 @@ font-size: 20px;
 background-color: #252627;
 }
 .main-info-section {
-height: calc(100vh -10px);
+height: calc(100vh -100px);
 }
 .text {
 font-family: Bahnschrift SemiBold;

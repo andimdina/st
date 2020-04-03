@@ -91,7 +91,7 @@ font-size: .8rem;
 }
 
 .profile-image img {
-width: 100px;
+position: right;
 margin-top: 50px;
 }
 

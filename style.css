@@ -70,6 +70,10 @@ transition: all .5s;
 span.name {
 color: #1d5380;
 }
+span.name:hover {
+color: #fff;
+transition: all .5s;
+}
 span.m-left {
 margin-left: -10px;
 }

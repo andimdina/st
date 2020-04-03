@@ -39,7 +39,7 @@ border: none!important;
 {
 color:#20272e!important;
 font-weight: 600;
-font-size: 18px;
+font-size: 20px;
 }
 
 /*----part2---*/
@@ -47,9 +47,8 @@ font-size: 18px;
 #main-section {
 background-color: #252627;
 }
-
 .main-info-section {
-height: calc(100vh - 81.6px);
+height: calc(100vh);
 }
 .text {
 margin-top: 120px;

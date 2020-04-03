@@ -7,16 +7,10 @@ html {
 scroll-behavior:smooth;
 }
 
-.container {
-padding: 0 100px 0 100px;
-}
-
-body {
-background-color: #252627;
-}
 
 /*----------navigation--------*/
 #nav-bar {
+background-color: #252627;
 position: sticky;
 top:0;
 z-index:10;

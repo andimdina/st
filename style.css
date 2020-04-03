@@ -50,6 +50,10 @@ font-size: 18px;
 
 /*----part2---*/
 
+#main-section {
+background-color: #252627;
+}
+
 .main-info-section {
 height: calc(100vh - 81.6px);
 }

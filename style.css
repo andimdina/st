@@ -7,13 +7,12 @@ html {
 scroll-behavior:smooth;
 }
 
-body {
-background-color: #252627;
-}
+
 
 
 /*----------navigation--------*/
 #nav-bar {
+background-color: #252627;
 position: sticky;
 top:0;
 z-index:10;
@@ -45,7 +44,9 @@ font-size: 20px;
 }
 
 /*----part2---*/
-
+#main-dection {
+background-color: #252627;
+}
 .main-info-section {
 height: calc(100vh);
 }

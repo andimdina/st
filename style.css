@@ -55,17 +55,17 @@ margin-top: 120px;
 }
 .text h1 {
 color: #fff;
-fontsize: 3rem;
+fontsize: 4rem;
 cursor: context-menu;
 }
 .text span {
 display: inline-block;
 }
 span:hover {
-color: #48CFAD;
+color: #0e80f2;
 transition: all .5s;
 }
-span.name: {
+span.name {
 color: #ED5565;
 }
 span.m-left {

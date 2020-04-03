@@ -32,7 +32,7 @@ float:right;
 text-align:left;
 }
 #nav-bar ul li a:hover {
-color: #F0F8FF!important;
+color: #5486ac!important;
 }
 .navbar {
 background: #6ba7e3;
@@ -69,14 +69,14 @@ display: inline-block;
 }
 span:hover {
 color: #5486ac;
-transition: all .5s;
+transition: all .9s;
 }
 span.name {
 color: #1d5380;
 }
 span.name:hover {
 color: #fff;
-transition: all .5s;
+transition: all .9s;
 }
 span.m-left {
 margin-left: -10px;

@@ -77,14 +77,14 @@ margin-left: -10px;
 .text p {
 letter-spacing: 3px;
 word-spacing: 10px;
-font-size: 8rem;
+font-size: .8rem;
 }
 .text a {
 padding: 12px 25px;
 background-color: none;
 border: 3px solid #ED5565;
 color: #ED5565;
-font-size: 8rem;
+font-size: .8rem;
 letter-spacing: 2px;
 position: relative;
 top: 80px;

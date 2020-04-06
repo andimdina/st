@@ -99,7 +99,7 @@ font-size: .8rem;
 }
 
 .profile-image img{
-align: right;
+position-align: right;
 width: 450px;
 margin-top: 50px;
 }

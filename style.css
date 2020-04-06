@@ -21,7 +21,7 @@ width: device-width;
 
 
 
-/*----------navigation--------*/
+/*----------Navigation--------*/
 #nav-bar {
 background-color: #252627;
 position: sticky;
@@ -54,7 +54,7 @@ font-weight: 600;
 font-size: 20px;
 }
 
-/*----part2---*/
+/*----------Main section--------*/
 #main-section {
 background-color: #252627;
 }
@@ -106,24 +106,14 @@ margin-top: 50px;
 
 
 
-/*-------part3-------*/
-#main-right {
-padding-top: 50px;
-position: right;
-color: #555;
-}
-h2 {
-text-align: center;
-color: #555 !important;
-padding-bottom: 10px;
+/*----------Bottiom Image--------*/
+
+.row {
+  
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
 
-h2::after {
-content: '';
-background: #007bff;
-display: block;
-height: 3px;
-width: 170px;
-margin: 20px auto 5px;
-}
+
 

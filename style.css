@@ -107,6 +107,9 @@ margin-top: 50px;
 
 
 /*----------Bottiom Image--------*/
+#bottom-images {
+background-color: #252627;
+}
 .column {
   float: left;
   width: 33.33%;

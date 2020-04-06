@@ -114,3 +114,6 @@ font-size: .8rem;
   display: grid;
   grid-row-gap: 50px;
 }
+.item1 {
+  grid-column: 1 / span 3;
+}

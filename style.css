@@ -57,7 +57,6 @@ font-size: 20px;
 /*----------Main section--------*/
 #main-section {
 background-color: #252627;
-display: grid;
 }
 .main-info-section {
 height: calc(100vh -50px);
@@ -111,3 +110,7 @@ font-size: .8rem;
   padding: 10px;
 }
 
+.grid-container {
+  display: grid;
+  grid-row-gap: 50px;
+}

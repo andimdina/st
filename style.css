@@ -101,19 +101,12 @@ word-spacing: 10px;
 font-size: .8rem;
 }
 
-.row {
-  display: flex;
-}
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
+
+#main-section {
+margin: 20px;
 }
 
 .grid-container {
-  display: grid;
-  grid-row-gap: 50px;
-}
-.item1 {
-  grid-column: 1 / span 3;
+display: grid;
+grid-gap: 50px;
 }
